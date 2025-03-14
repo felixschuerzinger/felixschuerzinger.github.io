@@ -28,6 +28,14 @@ latest_posts:
 ---
 Hi!
 
+I am a PhD student at the laboratoire MAP5, Université Paris Cité.
+
+I currently work on nonparametric estimation for stochastic differential equations.
+
+Right now, I am studying a least-squares projection estimator for an integral transform of the transition density of a stochastic differential equation. This github gathers the simulation work connected to my mathematics research.
+
+I am also passionate about econometrics, specifically option pricing and market dynamics along with their mathematical backgrounds.
+
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 #Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
