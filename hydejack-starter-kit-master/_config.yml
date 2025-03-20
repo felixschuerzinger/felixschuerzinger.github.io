@@ -20,7 +20,7 @@ url:                   https://felixschuerzinger.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Felix Schuerzinger's website
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -43,7 +43,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                <Felix> <Schuerzinger>
-  email:               <mail@domain.tld>
+  email:               <felix.schurzinger@u-paris.fr>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
