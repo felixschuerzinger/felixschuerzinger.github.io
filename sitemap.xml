@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2026-05-10T14:16:24+02:00</lastmod>
+<lastmod>2026-06-08T12:04:09+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -14,11 +14,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
-<lastmod>2026-05-10T14:09:26+02:00</lastmod>
+<lastmod>2026-06-08T12:10:28+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
-<lastmod>2026-01-20T11:27:40+01:00</lastmod>
+<lastmod>2026-06-08T11:52:31+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/licenses/Apache-2.0/</loc>
